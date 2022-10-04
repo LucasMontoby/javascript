@@ -39,4 +39,7 @@ const { __esModule } = require("babel-preset-react");
 //     console.log(alimentos)
 // });
 
+//ejemplo de exportar
+// module.exports = suma.js
 
+// const suma = require ('suma')
